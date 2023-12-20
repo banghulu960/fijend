@@ -1,10 +1,2 @@
-# personal-website-template
-
-A simple one page template suited for personal and portfolio pages. 
-
-## Usage
-
-- Fork this repository
-- Rename it to `<your-github-username>.github.io`
-- Edit `index.html` to add your personal details
-- Goto `http://<your-github-username.github.io` and website will be visible there
+#f
+![fijend](https://github.com/banghulu960/fijend/assets/153832184/a68408df-4526-44b9-94a6-87776db52a90)
